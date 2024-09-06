@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texTorial/static/css/main.f855e6bc.css",
+    "main.js": "/texTorial/static/js/main.1bca85f1.js",
+    "static/js/787.fb9a5fa6.chunk.js": "/texTorial/static/js/787.fb9a5fa6.chunk.js",
+    "index.html": "/texTorial/index.html",
+    "main.f855e6bc.css.map": "/texTorial/static/css/main.f855e6bc.css.map",
+    "main.1bca85f1.js.map": "/texTorial/static/js/main.1bca85f1.js.map",
+    "787.fb9a5fa6.chunk.js.map": "/texTorial/static/js/787.fb9a5fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1bca85f1.js"
+  ]
+}
